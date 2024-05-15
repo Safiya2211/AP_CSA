@@ -4,7 +4,7 @@ public class Mini_2 {
     public static void main(String[] args) {
         System.out.println("  Inches         Centimeters");
         double in = 1;
-        double c = 1;
+        double c = in;
         String s = "              ";
         for(int i = 1; i <= 10;i++){
             if(i==10){

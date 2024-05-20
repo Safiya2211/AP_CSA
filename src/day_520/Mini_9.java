@@ -33,7 +33,7 @@ public class Mini_9 {
         if (count2 < 3){
             return false;
         }
-        
+
         if (password.length() < 10) {
             return false;
         }
